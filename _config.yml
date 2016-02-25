@@ -1,0 +1,28 @@
+name: Judy testing the grid
+favicon: null
+layout_spectrum: 0.03648847225122154
+typography_spectrum: 0.8372199423611164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.517303756903857
+  lightness: 0.919691426679492
+  saturation: 0.41547746723517776
+  rhythmicContrast: 0.07229106011800468
+purpose: []
